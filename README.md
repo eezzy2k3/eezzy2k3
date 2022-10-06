@@ -10,7 +10,7 @@ I'm a Backend Engineer and Electrical Engineer. I'm very passionate about solvin
 - 🌱 I’m currently learning Cloud Engineering .
 - 😊 I’m looking for help with internships and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1GhIsBpP_ksQfceg2wsao-qREbphQ0Bgh/view?usp=sharing) and contac me at eezzy2k3@yahoo.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1W2SdhKZcip-NRUgjDl0n92W6ml-SdyPl/view?usp=sharing) and contac me at eezzy2k3@yahoo.com.
 
 ---
 
